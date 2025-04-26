@@ -1,7 +1,12 @@
 [
   {
     "code_sp": "sp01",
-    "link_shopee": "https://shopee.vn/product/111138057/25405294",
-    "link_tiktok": "https://www.tiktok.com/?lang=vi-VN"
+    "link_shopee": "https://shopee.vn/abc",
+    "link_tiktok": "https://tiktok.com/xyz"
+  },
+  {
+    "code_sp": "sp02",
+    "link_shopee": "https://shopee.vn/abc-sp02",
+    "link_tiktok": "https://tiktok.com/xyz-sp02"
   }
 ]
